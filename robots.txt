@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-f2j5cn.buttonforcalendar.app/sitemap.xml
